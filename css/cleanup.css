@@ -4,7 +4,7 @@
 }
 
 #wall #tag-2 {
-  background: off;
+  background: none !important;
 }
 
 div#wall #tag-3.slick {
